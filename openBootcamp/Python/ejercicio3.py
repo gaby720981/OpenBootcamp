@@ -6,6 +6,7 @@
 
 text = "Estoy aprendiendo Python en OpenBootcamp"
 
-x = type(text)
+print(text)
 
-print (x)
+print(type(text))
+
